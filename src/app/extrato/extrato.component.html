@@ -1,4 +1,5 @@
 <h2>Extrato Bancário</h2>
+<p><strong>Saldo: R$ {{ saldo() }}</strong></p>
 <ul>
   <li *ngFor="let item of extrato">
     {{ item.descricao }} - R$ {{ item.valor }}
