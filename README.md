@@ -4,7 +4,7 @@
 - mfe-credito: https://github.com/GiselleBarbosa/angular-bank-mfe-credito
 ---
 
-# MfeExtrato
+## MfeExtrato
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
 
