@@ -1,3 +1,9 @@
+# Microfronteds relacionados:
+- Shell: https://github.com/GiselleBarbosa/angular-bank-shell
+- mfe-extrato:  https://github.com/GiselleBarbosa/angular-bank-mfe-pagamentos
+- mfe-credito: https://github.com/GiselleBarbosa/angular-bank-mfe-credito
+---
+
 # MfeExtrato
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.12.
